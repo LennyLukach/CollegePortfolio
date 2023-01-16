@@ -1,0 +1,14 @@
+newDestList = [
+newDestListNums = [
+
+
+
+Magnetic Heading: 135
+Cardinal Direction: NE
+Distance to Airport: 1990
+
+
+
+
+
+[]
